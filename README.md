@@ -1,4 +1,4 @@
-# Queue Node Examplo
+# Queue Node Exemplo
 
 Isso é um projeto de estudo focado nos Background-Jobs no NodeJs. A necessidade desse estudo veio pelo fato que tenho outros projetos que enviam e-mails, e como as funções são assíncronas, estava demorando muito para dar uma resposta ao usuário, principalmente em funções/contextos que temos que enviar vários emails.
 
